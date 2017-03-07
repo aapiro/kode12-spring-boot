@@ -10,5 +10,8 @@
 	<description>spring-boot-demo</description>
 	<modules>
 		<module>spring-boot-aop-basic</module>
-	</modules>
+        <module>spring-boot-microservice-enhanced-cart</module>
+		<module>spring-boot-microservice-enhanced-product</module>
+		<module>spring-boot-microservice-enhanced-user</module>
+    </modules>
 </project>
