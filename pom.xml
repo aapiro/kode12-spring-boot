@@ -13,5 +13,7 @@
         <module>spring-boot-microservice-enhanced-cart</module>
 		<module>spring-boot-microservice-enhanced-product</module>
 		<module>spring-boot-microservice-enhanced-user</module>
+		<module>spring-boot-document-microservice-swagger</module>
+        <module>spring-boot-eureka-server</module>
     </modules>
 </project>
