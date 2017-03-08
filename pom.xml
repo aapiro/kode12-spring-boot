@@ -15,5 +15,6 @@
 		<module>spring-boot-microservice-enhanced-user</module>
 		<module>spring-boot-document-microservice-swagger</module>
         <module>spring-boot-eureka-server</module>
-    </modules>
+		<module>spring-boot-eureka-client</module>
+	</modules>
 </project>
