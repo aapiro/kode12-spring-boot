@@ -16,5 +16,6 @@
 		<module>spring-boot-document-microservice-swagger</module>
         <module>spring-boot-eureka-server</module>
 		<module>spring-boot-eureka-client</module>
-	</modules>
+        <module>spring-boot-hystrix</module>
+    </modules>
 </project>
